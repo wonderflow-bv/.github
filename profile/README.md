@@ -1,1 +1,1 @@
-<img src="https://user-images.githubusercontent.com/10454741/134331021-cb921777-8c23-418d-8fed-5009c04f9e1b.png" alt="Wonderflow Logo" >
+<img src="https://user-images.githubusercontent.com/10454741/134479747-1d2625eb-f1a3-49f3-8825-b121dd1272bc.png" alt="Wonderflow Logo" >
